@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<style> 
+  h1 {
+      font-size: 30px;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      color: orangered;
+      width: auto;
+  }
+  h3 { color: deeppink;}
+</style> 
+<html> 
+    <head> 
+        <title> 100 days of code tests  </title>
+    </head>
+    <body> 
+        
+        <h1> Hello world</h1>
+   <!-- this is a comment  <h1> this is h1 </h1>
+    <h2> this is h2 </h2> -->
+    <h3> 100daysofcodeapp </h3>
+    <main> 
+    <div>
+      <p> kitty ipsum dolor </p>
+      <p> kitty ipsum text </p>
+    </main>
+   <!-- <h4> this is h4  </h4>
+
+    <h5> this is h5 </h5>
+    <h6> this is h6 </h6> -->
+    <!-- kitty ipsum text -->
+    <!-- Kitty ipsumr ankles chase the red dot,  -->
+    <!-- Day 2 and we move 
+    Img tag -->
+    
+   <a href="#"> <img src = " C:\Users\leyej\Downloads/0" alt = " this is my first image "></a> 
+    <br>  
+    <!-- lets link an external page -->
+    <a href="www.google.com"> This is the link to google </a>
+    <hr>
+    <a href="instagram.com" target="_blank"> click here to go to next page instagram </a>
+    <hr>
+    <a href="#footer"> click here to go to bottom </a>
+
+    <hr> <p> <h2> This is a paragraph to show you where to follow us on all social media pages
+        as long as you want to follow , you can find us on all platforms , we have a strong, no a very strong 
+    social media presence 
+    so to find us on <a href="facebook.com"> facebook </a>  <br>
+    you can also find us to <a href="twitter.com"> twitter </a> <br> 
+    you can also get us on <a href="#"> instagram </a></h2> 
+    <hr> 
+    <h3> ordered list </h3>
+    <ol type="I"> 
+        <li> day 1 </li> <br>
+        <li> day 2 </li><br>
+        <li> day 3 </li><br>
+    </ol>
+ </div>
+
+    <hr> 
+    <h3> unordered list </h3>
+<ul>
+    <li> monday </li> <br>
+    <li> tuesday </li> <br>
+    <li> wednesday </li> <br>
+</ul>
+<hr> 
+<form action="/submit">
+<input type="text" placeholder="enter your age here">
+  <button type="submit"> submit here </button>  
+</form>
+
+<hr> 
+<p> <h1> <a href="craftandgrit.com">  Last page </a>This is the bottom page </h1></p>
+<br> 
+<h3> this is the last list </h3>
+<ol type="A"> 
+    <li>  <a href="cats.com"> cats  </a> </li> <br>
+    <li> <a href="dogs.com"> dogs </a> </li> <br> 
+    <li> <a href="rabbits.com.ng" > rabbits </a> </li> <br> 
+</ol>
+<br> 
+<hr> 
+    <h2> Just another form </h2> <br> 
+    <!-- form-->
+    <form action="/submit"> 
+        <input type="email" placeholder="type your email"> <br> 
+        <input type="file" placeholder="your cv should be uploaded"> <br> 
+        <input type="text" placeholder=" enter your fullname" > <br> 
+        <input type="text" required placeholder="enter your age"> <br>
+        <!-- radio box -->
+        <label for="indoor"> 
+            <input id="indoor" type="radio" name="indoor-outdoor" checked > Male 
+
+        </label>
+
+        <label for="outdoor"> 
+            <input id="outdoor" type="radio" name="indoor-outdoor" > Female
+        </label>
+<br> 
+        <!-- checkbox -->
+
+        <label for="continent">
+            <input type="checkbox"  name="continent" checked> AFRICA </label>
+        <label for="continent ">
+            <input type="checkbox" name="continent"> ASIA </label>
+         <label for="continent">
+             <input type="checkbox" name="continent">  EUROPE </label>
+        <button type="submit>"> enter </button>
+    
+    </form>
+<footer id="footer"> </footer>
+
+
+</body>
+</html>
